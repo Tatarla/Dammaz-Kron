@@ -6,8 +6,8 @@
       <MessageTimeoutSecs>24</MessageTimeoutSecs>
     </Settings>
     <RegionList>
-      <Region regionName="Dammaz Kron">
-        <PingServer serverName="Dammaz Kron">
+      <Region regionName="prod">
+        <PingServer serverName="None">
           <Address>147.45.146.150</Address>
           <Port>8048</Port>
         </PingServer>
