@@ -55,7 +55,7 @@
   <ChatBetweenRealms>true</ChatBetweenRealms>
   <CreateBothRealms>true</CreateBothRealms>
   <CleanSpawns>true</CleanSpawns>
-  <DiscoverAll>false</DiscoverAll>
+  <DiscoverAll>true</DiscoverAll>
   <OpenRvR>false</OpenRvR>
   <PreloadAllCharacters>true</PreloadAllCharacters>
   <Motd>Welcome to Warhammer Online: Age of Reckoning!</Motd>
