@@ -8,12 +8,12 @@
     <RegionList>
       <Region regionName="prod">
         <PingServer serverName="None">
-          <Address>147.45.146.150</Address>
+          <Address>147.45.143.82</Address>
           <Port>8048</Port>
         </PingServer>
        <LoginServerList>
           <LoginServer serverName="ApsServer">
-            <Address>147.45.146.150</Address>
+            <Address>147.45.143.82</Address>
             <Port>8048</Port>
           </LoginServer>
        </LoginServerList>
