@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Connections Ver="1.5">
-	<Connection ConnectionName="Dammaz Kron" ProjectUUID="" ConnType="MYSQL" ServiceProvider="Default" Host="localhost" Port="27077" UserName="Tatarla" Password="C128EF250515D2B15B1F6D76A8300621" SavePassword="true" SettingsSavePath="C:\Users\Administrator\Documents\Navicat\MySQL\Servers\Dammaz Kron" SessionLimit="0" InitialSessionQueries="" ClientDriverVersion="Default" ClientCharacterSet="" ClientEncoding="65001" Keepalive="false" UseConnectionTimeout="true" ConnectionTimeoutSeconds="30" UseReadTimeout="false" UseWriteTimeout="true" WriteTimeoutSeconds="30" Encoding="65001" MySQLCharacterSet="true" Compression="false" AutoConnect="false" NamedPipe="false" UseAdvanced="false" SSL="false" SSH="false" HTTP="false" Compatibility="false"/>
-</Connections>
-
